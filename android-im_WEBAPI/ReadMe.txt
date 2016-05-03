@@ -1,0 +1,1 @@
+For SERVER, pls copy entire folder and files to C:\xampp\htdocs\android-im
